@@ -2,7 +2,7 @@
 Example card stack build with SwiftUI
 
 
-<img width="923" alt="preview" src="https://github.com/qweluke/swiftui-card-deck/assets/193701/8e848006-a4f4-4980-9fba-dbe2757628ef">
+<img width="223" alt="preview" src="https://github.com/qweluke/swiftui-card-deck/assets/193701/8e848006-a4f4-4980-9fba-dbe2757628ef">
 
 see it in action 
 
