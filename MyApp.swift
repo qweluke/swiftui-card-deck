@@ -2,9 +2,9 @@ import SwiftUI
 
 @main
 struct MyApp: App {
-    var body: some Scene {
-        WindowGroup {
-          CardDeckView()
-        }
+  var body: some Scene {
+    WindowGroup {
+      CardDeckView()
     }
+  }
 }

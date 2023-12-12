@@ -32,7 +32,7 @@ enum CardSwipeDirection: Int {
 
 public enum CardSwipeBottom {
   case bottom
-
+  
   public static func direction(degrees: Double) -> Self? {
     switch degrees {
     case 135..<225: return .bottom
